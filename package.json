@@ -1,14 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "hello how are you",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm test"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickwojt/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/nickwojt/note-taker/issues"
+  },
+  "homepage": "https://github.com/nickwojt/note-taker#readme"
 }
